@@ -1,0 +1,1 @@
+cout << "Press enter when GO appears" << endl;
